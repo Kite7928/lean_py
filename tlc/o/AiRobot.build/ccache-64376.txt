@@ -1,0 +1,729 @@
+[2022-12-22T16:30:07.338976 46016] === CCACHE 4.6 STARTED =========================================
+[2022-12-22T16:30:07.338976 46016] Config: (default) absolute_paths_in_stderr = false
+[2022-12-22T16:30:07.338976 46016] Config: (default) base_dir = 
+[2022-12-22T16:30:07.338976 46016] Config: (environment) cache_dir = C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-12-22T16:30:07.338976 46016] Config: (default) compiler = 
+[2022-12-22T16:30:07.338976 46016] Config: (default) compiler_check = mtime
+[2022-12-22T16:30:07.338976 46016] Config: (default) compiler_type = auto
+[2022-12-22T16:30:07.338976 46016] Config: (default) compression = true
+[2022-12-22T16:30:07.338976 46016] Config: (default) compression_level = 0
+[2022-12-22T16:30:07.338976 46016] Config: (default) cpp_extension = 
+[2022-12-22T16:30:07.338976 46016] Config: (default) debug = false
+[2022-12-22T16:30:07.338976 46016] Config: (default) debug_dir = 
+[2022-12-22T16:30:07.338976 46016] Config: (default) depend_mode = false
+[2022-12-22T16:30:07.338976 46016] Config: (default) direct_mode = true
+[2022-12-22T16:30:07.338976 46016] Config: (default) disable = false
+[2022-12-22T16:30:07.338976 46016] Config: (default) extra_files_to_hash = 
+[2022-12-22T16:30:07.338976 46016] Config: (default) file_clone = false
+[2022-12-22T16:30:07.338976 46016] Config: (default) hard_link = false
+[2022-12-22T16:30:07.338976 46016] Config: (default) hash_dir = true
+[2022-12-22T16:30:07.338976 46016] Config: (default) ignore_headers_in_manifest = 
+[2022-12-22T16:30:07.338976 46016] Config: (default) ignore_options = 
+[2022-12-22T16:30:07.338976 46016] Config: (default) inode_cache = false
+[2022-12-22T16:30:07.338976 46016] Config: (default) keep_comments_cpp = false
+[2022-12-22T16:30:07.338976 46016] Config: (default) limit_multiple = 0.8
+[2022-12-22T16:30:07.338976 46016] Config: (environment) log_file = E:\opea\py\lean_py\tlc\o\AiRobot.build\ccache-64376.txt
+[2022-12-22T16:30:07.338976 46016] Config: (default) max_files = 0
+[2022-12-22T16:30:07.338976 46016] Config: (default) max_size = 5.0G
+[2022-12-22T16:30:07.338976 46016] Config: (default) namespace = 
+[2022-12-22T16:30:07.338976 46016] Config: (default) path = 
+[2022-12-22T16:30:07.338976 46016] Config: (default) pch_external_checksum = false
+[2022-12-22T16:30:07.338976 46016] Config: (default) prefix_command = 
+[2022-12-22T16:30:07.338976 46016] Config: (default) prefix_command_cpp = 
+[2022-12-22T16:30:07.338976 46016] Config: (default) read_only = false
+[2022-12-22T16:30:07.338976 46016] Config: (default) read_only_direct = false
+[2022-12-22T16:30:07.338976 46016] Config: (default) recache = false
+[2022-12-22T16:30:07.338976 46016] Config: (default) reshare = false
+[2022-12-22T16:30:07.338976 46016] Config: (default) run_second_cpp = true
+[2022-12-22T16:30:07.338976 46016] Config: (default) secondary_storage = 
+[2022-12-22T16:30:07.338976 46016] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-12-22T16:30:07.338976 46016] Config: (default) stats = true
+[2022-12-22T16:30:07.338976 46016] Config: (default) stats_log = 
+[2022-12-22T16:30:07.338976 46016] Config: (default) temporary_dir = C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-12-22T16:30:07.338976 46016] Config: (default) umask = 
+[2022-12-22T16:30:07.338976 46016] Command line: C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\ccache\v4.6\ccache.exe G:\trun\mingw64\bin\gcc.exe -o __constants.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_STANDALONE -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=153 -D_NUITKA_EXE -D_NUITKA_PLUGIN_MULTIPROCESSING_ENABLED=1 -IE:\opea\python310\include -I. -IE:\opea\PYTHON~1\lib\SITE-P~1\nuitka\build\include -IE:\opea\PYTHON~1\lib\SITE-P~1\nuitka\build\static_src __constants.c
+[2022-12-22T16:30:07.348950 46016] Hostname: DESKTOP-ESQ17M1
+[2022-12-22T16:30:07.348950 46016] Working directory: E:/opea/py/lean_py/tlc/o/AiRobot.build
+[2022-12-22T16:30:07.348950 46016] Compiler type: gcc
+[2022-12-22T16:30:07.349949 46016] Source file: __constants.c
+[2022-12-22T16:30:07.349949 46016] Object file: __constants.o
+[2022-12-22T16:30:07.349949 46016] Trying direct lookup
+[2022-12-22T16:30:07.350946 46016] Retrieved 87669cu54h3liik9sghndepdpfcf22e8s from primary storage (C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/7/669cu54h3liik9sghndepdpfcf22e8sM)
+[2022-12-22T16:30:07.350946 46016] Looking for result key in C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/7/669cu54h3liik9sghndepdpfcf22e8sM
+[2022-12-22T16:30:07.351943 36436] === CCACHE 4.6 STARTED =========================================
+[2022-12-22T16:30:07.351943 36436] Config: (default) absolute_paths_in_stderr = false
+[2022-12-22T16:30:07.351943 36436] Config: (default) base_dir = 
+[2022-12-22T16:30:07.351943 36436] Config: (environment) cache_dir = C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-12-22T16:30:07.351943 36436] Config: (default) compiler = 
+[2022-12-22T16:30:07.351943 36436] Config: (default) compiler_check = mtime
+[2022-12-22T16:30:07.351943 36436] Config: (default) compiler_type = auto
+[2022-12-22T16:30:07.351943 36436] Config: (default) compression = true
+[2022-12-22T16:30:07.351943 36436] Config: (default) compression_level = 0
+[2022-12-22T16:30:07.351943 36436] Config: (default) cpp_extension = 
+[2022-12-22T16:30:07.351943 36436] Config: (default) debug = false
+[2022-12-22T16:30:07.351943 36436] Config: (default) debug_dir = 
+[2022-12-22T16:30:07.351943 36436] Config: (default) depend_mode = false
+[2022-12-22T16:30:07.351943 36436] Config: (default) direct_mode = true
+[2022-12-22T16:30:07.351943 36436] Config: (default) disable = false
+[2022-12-22T16:30:07.351943 36436] Config: (default) extra_files_to_hash = 
+[2022-12-22T16:30:07.351943 36436] Config: (default) file_clone = false
+[2022-12-22T16:30:07.351943 36436] Config: (default) hard_link = false
+[2022-12-22T16:30:07.351943 36436] Config: (default) hash_dir = true
+[2022-12-22T16:30:07.351943 36436] Config: (default) ignore_headers_in_manifest = 
+[2022-12-22T16:30:07.351943 36436] Config: (default) ignore_options = 
+[2022-12-22T16:30:07.351943 36436] Config: (default) inode_cache = false
+[2022-12-22T16:30:07.351943 36436] Config: (default) keep_comments_cpp = false
+[2022-12-22T16:30:07.351943 36436] Config: (default) limit_multiple = 0.8
+[2022-12-22T16:30:07.351943 36436] Config: (environment) log_file = E:\opea\py\lean_py\tlc\o\AiRobot.build\ccache-64376.txt
+[2022-12-22T16:30:07.351943 36436] Config: (default) max_files = 0
+[2022-12-22T16:30:07.351943 36436] Config: (default) max_size = 5.0G
+[2022-12-22T16:30:07.351943 36436] Config: (default) namespace = 
+[2022-12-22T16:30:07.351943 36436] Config: (default) path = 
+[2022-12-22T16:30:07.351943 36436] Config: (default) pch_external_checksum = false
+[2022-12-22T16:30:07.351943 36436] Config: (default) prefix_command = 
+[2022-12-22T16:30:07.351943 36436] Config: (default) prefix_command_cpp = 
+[2022-12-22T16:30:07.351943 36436] Config: (default) read_only = false
+[2022-12-22T16:30:07.351943 36436] Config: (default) read_only_direct = false
+[2022-12-22T16:30:07.351943 36436] Config: (default) recache = false
+[2022-12-22T16:30:07.351943 36436] Config: (default) reshare = false
+[2022-12-22T16:30:07.351943 36436] Config: (default) run_second_cpp = true
+[2022-12-22T16:30:07.351943 36436] Config: (default) secondary_storage = 
+[2022-12-22T16:30:07.351943 36436] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-12-22T16:30:07.351943 36436] Config: (default) stats = true
+[2022-12-22T16:30:07.351943 36436] Config: (default) stats_log = 
+[2022-12-22T16:30:07.351943 36436] Config: (default) temporary_dir = C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-12-22T16:30:07.351943 36436] Config: (default) umask = 
+[2022-12-22T16:30:07.352939 36436] Command line: C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\ccache\v4.6\ccache.exe G:\trun\mingw64\bin\gcc.exe -o __helpers.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_STANDALONE -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=153 -D_NUITKA_EXE -D_NUITKA_PLUGIN_MULTIPROCESSING_ENABLED=1 -IE:\opea\python310\include -I. -IE:\opea\PYTHON~1\lib\SITE-P~1\nuitka\build\include -IE:\opea\PYTHON~1\lib\SITE-P~1\nuitka\build\static_src __helpers.c
+[2022-12-22T16:30:07.360917 36436] Hostname: DESKTOP-ESQ17M1
+[2022-12-22T16:30:07.360917 36436] Working directory: E:/opea/py/lean_py/tlc/o/AiRobot.build
+[2022-12-22T16:30:07.360917 36436] Compiler type: gcc
+[2022-12-22T16:30:07.361915 36436] Source file: __helpers.c
+[2022-12-22T16:30:07.361915 36436] Object file: __helpers.o
+[2022-12-22T16:30:07.361915 36436] Trying direct lookup
+[2022-12-22T16:30:07.361915 36436] Retrieved 9b29n85eehs9el6gcirnb00sk8nb5n5ja from primary storage (C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/b/29n85eehs9el6gcirnb00sk8nb5n5jaM)
+[2022-12-22T16:30:07.362913 36436] Looking for result key in C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/b/29n85eehs9el6gcirnb00sk8nb5n5jaM
+[2022-12-22T16:30:07.371888 22508] === CCACHE 4.6 STARTED =========================================
+[2022-12-22T16:30:07.371888 22508] Config: (default) absolute_paths_in_stderr = false
+[2022-12-22T16:30:07.371888 22508] Config: (default) base_dir = 
+[2022-12-22T16:30:07.371888 22508] Config: (environment) cache_dir = C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-12-22T16:30:07.371888 22508] Config: (default) compiler = 
+[2022-12-22T16:30:07.371888 22508] Config: (default) compiler_check = mtime
+[2022-12-22T16:30:07.371888 22508] Config: (default) compiler_type = auto
+[2022-12-22T16:30:07.371888 22508] Config: (default) compression = true
+[2022-12-22T16:30:07.371888 22508] Config: (default) compression_level = 0
+[2022-12-22T16:30:07.371888 22508] Config: (default) cpp_extension = 
+[2022-12-22T16:30:07.371888 22508] Config: (default) debug = false
+[2022-12-22T16:30:07.371888 22508] Config: (default) debug_dir = 
+[2022-12-22T16:30:07.371888 22508] Config: (default) depend_mode = false
+[2022-12-22T16:30:07.371888 22508] Config: (default) direct_mode = true
+[2022-12-22T16:30:07.371888 22508] Config: (default) disable = false
+[2022-12-22T16:30:07.371888 22508] Config: (default) extra_files_to_hash = 
+[2022-12-22T16:30:07.371888 22508] Config: (default) file_clone = false
+[2022-12-22T16:30:07.371888 22508] Config: (default) hard_link = false
+[2022-12-22T16:30:07.371888 22508] Config: (default) hash_dir = true
+[2022-12-22T16:30:07.371888 22508] Config: (default) ignore_headers_in_manifest = 
+[2022-12-22T16:30:07.371888 22508] Config: (default) ignore_options = 
+[2022-12-22T16:30:07.371888 22508] Config: (default) inode_cache = false
+[2022-12-22T16:30:07.371888 22508] Config: (default) keep_comments_cpp = false
+[2022-12-22T16:30:07.371888 22508] Config: (default) limit_multiple = 0.8
+[2022-12-22T16:30:07.371888 22508] Config: (environment) log_file = E:\opea\py\lean_py\tlc\o\AiRobot.build\ccache-64376.txt
+[2022-12-22T16:30:07.371888 22508] Config: (default) max_files = 0
+[2022-12-22T16:30:07.371888 22508] Config: (default) max_size = 5.0G
+[2022-12-22T16:30:07.371888 22508] Config: (default) namespace = 
+[2022-12-22T16:30:07.371888 22508] Config: (default) path = 
+[2022-12-22T16:30:07.371888 22508] Config: (default) pch_external_checksum = false
+[2022-12-22T16:30:07.371888 22508] Config: (default) prefix_command = 
+[2022-12-22T16:30:07.371888 22508] Config: (default) prefix_command_cpp = 
+[2022-12-22T16:30:07.371888 22508] Config: (default) read_only = false
+[2022-12-22T16:30:07.371888 22508] Config: (default) read_only_direct = false
+[2022-12-22T16:30:07.371888 22508] Config: (default) recache = false
+[2022-12-22T16:30:07.371888 22508] Config: (default) reshare = false
+[2022-12-22T16:30:07.371888 22508] Config: (default) run_second_cpp = true
+[2022-12-22T16:30:07.371888 22508] Config: (default) secondary_storage = 
+[2022-12-22T16:30:07.371888 22508] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-12-22T16:30:07.371888 22508] Config: (default) stats = true
+[2022-12-22T16:30:07.371888 22508] Config: (default) stats_log = 
+[2022-12-22T16:30:07.371888 22508] Config: (default) temporary_dir = C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-12-22T16:30:07.371888 22508] Config: (default) umask = 
+[2022-12-22T16:30:07.372885 22508] Command line: C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\ccache\v4.6\ccache.exe G:\trun\mingw64\bin\gcc.exe -o __loader.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_STANDALONE -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=153 -D_NUITKA_EXE -D_NUITKA_PLUGIN_MULTIPROCESSING_ENABLED=1 -IE:\opea\python310\include -I. -IE:\opea\PYTHON~1\lib\SITE-P~1\nuitka\build\include -IE:\opea\PYTHON~1\lib\SITE-P~1\nuitka\build\static_src __loader.c
+[2022-12-22T16:30:07.381861 22508] Hostname: DESKTOP-ESQ17M1
+[2022-12-22T16:30:07.381861 22508] Working directory: E:/opea/py/lean_py/tlc/o/AiRobot.build
+[2022-12-22T16:30:07.381861 22508] Compiler type: gcc
+[2022-12-22T16:30:07.381861 22508] Source file: __loader.c
+[2022-12-22T16:30:07.381861 22508] Object file: __loader.o
+[2022-12-22T16:30:07.383857 22508] Trying direct lookup
+[2022-12-22T16:30:07.383857 47332] === CCACHE 4.6 STARTED =========================================
+[2022-12-22T16:30:07.383857 47332] Config: (default) absolute_paths_in_stderr = false
+[2022-12-22T16:30:07.383857 47332] Config: (default) base_dir = 
+[2022-12-22T16:30:07.383857 47332] Config: (environment) cache_dir = C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-12-22T16:30:07.383857 47332] Config: (default) compiler = 
+[2022-12-22T16:30:07.383857 47332] Config: (default) compiler_check = mtime
+[2022-12-22T16:30:07.383857 47332] Config: (default) compiler_type = auto
+[2022-12-22T16:30:07.383857 47332] Config: (default) compression = true
+[2022-12-22T16:30:07.383857 47332] Config: (default) compression_level = 0
+[2022-12-22T16:30:07.383857 47332] Config: (default) cpp_extension = 
+[2022-12-22T16:30:07.383857 47332] Config: (default) debug = false
+[2022-12-22T16:30:07.383857 47332] Config: (default) debug_dir = 
+[2022-12-22T16:30:07.383857 47332] Config: (default) depend_mode = false
+[2022-12-22T16:30:07.383857 47332] Config: (default) direct_mode = true
+[2022-12-22T16:30:07.383857 47332] Config: (default) disable = false
+[2022-12-22T16:30:07.383857 47332] Config: (default) extra_files_to_hash = 
+[2022-12-22T16:30:07.383857 47332] Config: (default) file_clone = false
+[2022-12-22T16:30:07.383857 47332] Config: (default) hard_link = false
+[2022-12-22T16:30:07.383857 47332] Config: (default) hash_dir = true
+[2022-12-22T16:30:07.383857 47332] Config: (default) ignore_headers_in_manifest = 
+[2022-12-22T16:30:07.383857 47332] Config: (default) ignore_options = 
+[2022-12-22T16:30:07.383857 47332] Config: (default) inode_cache = false
+[2022-12-22T16:30:07.383857 47332] Config: (default) keep_comments_cpp = false
+[2022-12-22T16:30:07.383857 47332] Config: (default) limit_multiple = 0.8
+[2022-12-22T16:30:07.383857 47332] Config: (environment) log_file = E:\opea\py\lean_py\tlc\o\AiRobot.build\ccache-64376.txt
+[2022-12-22T16:30:07.383857 47332] Config: (default) max_files = 0
+[2022-12-22T16:30:07.383857 47332] Config: (default) max_size = 5.0G
+[2022-12-22T16:30:07.383857 47332] Config: (default) namespace = 
+[2022-12-22T16:30:07.383857 47332] Config: (default) path = 
+[2022-12-22T16:30:07.383857 47332] Config: (default) pch_external_checksum = false
+[2022-12-22T16:30:07.383857 47332] Config: (default) prefix_command = 
+[2022-12-22T16:30:07.383857 47332] Config: (default) prefix_command_cpp = 
+[2022-12-22T16:30:07.383857 47332] Config: (default) read_only = false
+[2022-12-22T16:30:07.383857 47332] Config: (default) read_only_direct = false
+[2022-12-22T16:30:07.383857 47332] Config: (default) recache = false
+[2022-12-22T16:30:07.383857 47332] Config: (default) reshare = false
+[2022-12-22T16:30:07.383857 47332] Config: (default) run_second_cpp = true
+[2022-12-22T16:30:07.383857 47332] Config: (default) secondary_storage = 
+[2022-12-22T16:30:07.383857 47332] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-12-22T16:30:07.383857 47332] Config: (default) stats = true
+[2022-12-22T16:30:07.383857 47332] Config: (default) stats_log = 
+[2022-12-22T16:30:07.383857 47332] Config: (default) temporary_dir = C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-12-22T16:30:07.383857 47332] Config: (default) umask = 
+[2022-12-22T16:30:07.383857 47332] Command line: C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\ccache\v4.6\ccache.exe G:\trun\mingw64\bin\gcc.exe -o module.__main__.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_STANDALONE -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=153 -D_NUITKA_EXE -D_NUITKA_PLUGIN_MULTIPROCESSING_ENABLED=1 -IE:\opea\python310\include -I. -IE:\opea\PYTHON~1\lib\SITE-P~1\nuitka\build\include -IE:\opea\PYTHON~1\lib\SITE-P~1\nuitka\build\static_src module.__main__.c
+[2022-12-22T16:30:07.383857 22508] Retrieved 60dfdvsfmvmlt9bpfq9nbftranvutp838 from primary storage (C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/0/dfdvsfmvmlt9bpfq9nbftranvutp838M)
+[2022-12-22T16:30:07.385852 22508] Looking for result key in C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/0/dfdvsfmvmlt9bpfq9nbftranvutp838M
+[2022-12-22T16:30:07.392833 47332] Hostname: DESKTOP-ESQ17M1
+[2022-12-22T16:30:07.392833 47332] Working directory: E:/opea/py/lean_py/tlc/o/AiRobot.build
+[2022-12-22T16:30:07.392833 47332] Compiler type: gcc
+[2022-12-22T16:30:07.393830 47332] Source file: module.__main__.c
+[2022-12-22T16:30:07.393830 47332] Object file: module.__main__.o
+[2022-12-22T16:30:07.393830 47332] Trying direct lookup
+[2022-12-22T16:30:07.394827 47332] Retrieved b020qptadllufaj7ggrq26e63jk0ks0vk from primary storage (C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/0/20qptadllufaj7ggrq26e63jk0ks0vkM)
+[2022-12-22T16:30:07.394827 47332] Looking for result key in C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/0/20qptadllufaj7ggrq26e63jk0ks0vkM
+[2022-12-22T16:30:07.397820 52520] === CCACHE 4.6 STARTED =========================================
+[2022-12-22T16:30:07.397820 52520] Config: (default) absolute_paths_in_stderr = false
+[2022-12-22T16:30:07.397820 52520] Config: (default) base_dir = 
+[2022-12-22T16:30:07.397820 52520] Config: (environment) cache_dir = C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-12-22T16:30:07.397820 52520] Config: (default) compiler = 
+[2022-12-22T16:30:07.397820 52520] Config: (default) compiler_check = mtime
+[2022-12-22T16:30:07.397820 52520] Config: (default) compiler_type = auto
+[2022-12-22T16:30:07.397820 52520] Config: (default) compression = true
+[2022-12-22T16:30:07.397820 52520] Config: (default) compression_level = 0
+[2022-12-22T16:30:07.397820 52520] Config: (default) cpp_extension = 
+[2022-12-22T16:30:07.397820 52520] Config: (default) debug = false
+[2022-12-22T16:30:07.397820 52520] Config: (default) debug_dir = 
+[2022-12-22T16:30:07.397820 52520] Config: (default) depend_mode = false
+[2022-12-22T16:30:07.397820 52520] Config: (default) direct_mode = true
+[2022-12-22T16:30:07.397820 52520] Config: (default) disable = false
+[2022-12-22T16:30:07.397820 52520] Config: (default) extra_files_to_hash = 
+[2022-12-22T16:30:07.397820 52520] Config: (default) file_clone = false
+[2022-12-22T16:30:07.397820 52520] Config: (default) hard_link = false
+[2022-12-22T16:30:07.397820 52520] Config: (default) hash_dir = true
+[2022-12-22T16:30:07.397820 52520] Config: (default) ignore_headers_in_manifest = 
+[2022-12-22T16:30:07.397820 52520] Config: (default) ignore_options = 
+[2022-12-22T16:30:07.397820 52520] Config: (default) inode_cache = false
+[2022-12-22T16:30:07.397820 52520] Config: (default) keep_comments_cpp = false
+[2022-12-22T16:30:07.397820 52520] Config: (default) limit_multiple = 0.8
+[2022-12-22T16:30:07.397820 52520] Config: (environment) log_file = E:\opea\py\lean_py\tlc\o\AiRobot.build\ccache-64376.txt
+[2022-12-22T16:30:07.397820 52520] Config: (default) max_files = 0
+[2022-12-22T16:30:07.397820 52520] Config: (default) max_size = 5.0G
+[2022-12-22T16:30:07.397820 52520] Config: (default) namespace = 
+[2022-12-22T16:30:07.397820 52520] Config: (default) path = 
+[2022-12-22T16:30:07.397820 52520] Config: (default) pch_external_checksum = false
+[2022-12-22T16:30:07.397820 52520] Config: (default) prefix_command = 
+[2022-12-22T16:30:07.397820 52520] Config: (default) prefix_command_cpp = 
+[2022-12-22T16:30:07.397820 52520] Config: (default) read_only = false
+[2022-12-22T16:30:07.397820 52520] Config: (default) read_only_direct = false
+[2022-12-22T16:30:07.397820 52520] Config: (default) recache = false
+[2022-12-22T16:30:07.397820 52520] Config: (default) reshare = false
+[2022-12-22T16:30:07.397820 52520] Config: (default) run_second_cpp = true
+[2022-12-22T16:30:07.397820 52520] Config: (default) secondary_storage = 
+[2022-12-22T16:30:07.397820 52520] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-12-22T16:30:07.397820 52520] Config: (default) stats = true
+[2022-12-22T16:30:07.397820 52520] Config: (default) stats_log = 
+[2022-12-22T16:30:07.397820 52520] Config: (default) temporary_dir = C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-12-22T16:30:07.397820 52520] Config: (default) umask = 
+[2022-12-22T16:30:07.397820 52520] Command line: C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\ccache\v4.6\ccache.exe G:\trun\mingw64\bin\gcc.exe -o module.__parents_main__.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_STANDALONE -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=153 -D_NUITKA_EXE -D_NUITKA_PLUGIN_MULTIPROCESSING_ENABLED=1 -IE:\opea\python310\include -I. -IE:\opea\PYTHON~1\lib\SITE-P~1\nuitka\build\include -IE:\opea\PYTHON~1\lib\SITE-P~1\nuitka\build\static_src module.__parents_main__.c
+[2022-12-22T16:30:07.409787 52520] Hostname: DESKTOP-ESQ17M1
+[2022-12-22T16:30:07.409787 52520] Working directory: E:/opea/py/lean_py/tlc/o/AiRobot.build
+[2022-12-22T16:30:07.409787 52520] Compiler type: gcc
+[2022-12-22T16:30:07.410786 52520] Source file: module.__parents_main__.c
+[2022-12-22T16:30:07.410786 52520] Object file: module.__parents_main__.o
+[2022-12-22T16:30:07.410786 52520] Trying direct lookup
+[2022-12-22T16:30:07.411782 52520] Retrieved e54269qlii891o9gl6dt0dq1jcefjng0q from primary storage (C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/5/4269qlii891o9gl6dt0dq1jcefjng0qM)
+[2022-12-22T16:30:07.416768 52520] Looking for result key in C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/5/4269qlii891o9gl6dt0dq1jcefjng0qM
+ storage (C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/1/cdofueus9l0ktu2becilo5419oqjdekR)
+[2022-12-22T16:30:07.421755 22508] Reading embedded entry #0 .o (31895 bytes)
+[2022-12-22T16:30:07.421755 22508] Writing to __loader.o
+[2022-12-22T16:30:07.422752 22508] Succeeded getting cached result
+[2022-12-22T16:30:07.422752 22508] Result: direct_cache_hit
+[2022-12-22T16:30:07.422752 22508] Result: primary_storage_hit
+[2022-12-22T16:30:07.428736 22508] Acquired lock C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/c/stats.lock
+[2022-12-22T16:30:07.432726 47536] === CCACHE 4.6 STARTED =========================================
+[2022-12-22T16:30:07.432726 47536] Config: (default) absolute_paths_in_stderr = false
+[2022-12-22T16:30:07.432726 47536] Config: (default) base_dir = 
+[2022-12-22T16:30:07.432726 47536] Config: (environment) cache_dir = C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-12-22T16:30:07.432726 47536] Config: (default) compiler = 
+[2022-12-22T16:30:07.432726 47536] Config: (default) compiler_check = mtime
+[2022-12-22T16:30:07.432726 47536] Config: (default) compiler_type = auto
+[2022-12-22T16:30:07.432726 47536] Config: (default) compression = true
+[2022-12-22T16:30:07.432726 47536] Config: (default) compression_level = 0
+[2022-12-22T16:30:07.432726 47536] Config: (default) cpp_extension = 
+[2022-12-22T16:30:07.432726 47536] Config: (default) debug = false
+[2022-12-22T16:30:07.432726 47536] Config: (default) debug_dir = 
+[2022-12-22T16:30:07.432726 47536] Config: (default) depend_mode = false
+[2022-12-22T16:30:07.432726 47536] Config: (default) direct_mode = true
+[2022-12-22T16:30:07.432726 47536] Config: (default) disable = false
+[2022-12-22T16:30:07.432726 47536] Config: (default) extra_files_to_hash = 
+[2022-12-22T16:30:07.432726 47536] Config: (default) file_clone = false
+[2022-12-22T16:30:07.432726 47536] Config: (default) hard_link = false
+[2022-12-22T16:30:07.432726 47536] Config: (default) hash_dir = true
+[2022-12-22T16:30:07.432726 47536] Config: (default) ignore_headers_in_manifest = 
+[2022-12-22T16:30:07.432726 47536] Config: (default) ignore_options = 
+[2022-12-22T16:30:07.432726 47536] Config: (default) inode_cache = false
+[2022-12-22T16:30:07.432726 47536] Config: (default) keep_comments_cpp = false
+[2022-12-22T16:30:07.432726 47536] Config: (default) limit_multiple = 0.8
+[2022-12-22T16:30:07.432726 47536] Config: (environment) log_file = E:\opea\py\lean_py\tlc\o\AiRobot.build\ccache-64376.txt
+[2022-12-22T16:30:07.432726 47536] Config: (default) max_files = 0
+[2022-12-22T16:30:07.432726 47536] Config: (default) max_size = 5.0G
+[2022-12-22T16:30:07.432726 47536] Config: (default) namespace = 
+[2022-12-22T16:30:07.432726 47536] Config: (default) path = 
+[2022-12-22T16:30:07.432726 47536] Config: (default) pch_external_checksum = false
+[2022-12-22T16:30:07.432726 47536] Config: (default) prefix_command = 
+[2022-12-22T16:30:07.432726 47536] Config: (default) prefix_command_cpp = 
+[2022-12-22T16:30:07.432726 47536] Config: (default) read_only = false
+[2022-12-22T16:30:07.432726 47536] Config: (default) read_only_direct = false
+[2022-12-22T16:30:07.432726 47536] Config: (default) recache = false
+[2022-12-22T16:30:07.432726 47536] Config: (default) reshare = false
+[2022-12-22T16:30:07.432726 47536] Config: (default) run_second_cpp = true
+[2022-12-22T16:30:07.432726 47536] Config: (default) secondary_storage = 
+[2022-12-22T16:30:07.432726 47536] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-12-22T16:30:07.432726 47536] Config: (default) stats = true
+[2022-12-22T16:30:07.432726 47536] Config: (default) stats_log = 
+[2022-12-22T16:30:07.432726 47536] Config: (default) temporary_dir = C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-12-22T16:30:07.432726 47536] Config: (default) umask = 
+[2022-12-22T16:30:07.432726 47536] Command line: C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\ccache\v4.6\ccache.exe G:\trun\mingw64\bin\gcc.exe -o module.multiprocessing-postLoad.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_STANDALONE -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=153 -D_NUITKA_EXE -D_NUITKA_PLUGIN_MULTIPROCESSING_ENABLED=1 -IE:\opea\python310\include -I. -IE:\opea\PYTHON~1\lib\SITE-P~1\nuitka\build\include -IE:\opea\PYTHON~1\lib\SITE-P~1\nuitka\build\static_src module.multiprocessing-postLoad.c
+[2022-12-22T16:30:07.439707 22508] Releasing lock C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/c/stats.lock
+[2022-12-22T16:30:07.442699 47536] Hostname: DESKTOP-ESQ17M1
+[2022-12-22T16:30:07.442699 47536] Working directory: E:/opea/py/lean_py/tlc/o/AiRobot.build
+[2022-12-22T16:30:07.442699 47536] Compiler type: gcc
+[2022-12-22T16:30:07.443697 47536] Source file: module.multiprocessing-postLoad.c
+[2022-12-22T16:30:07.443697 47536] Object file: module.multiprocessing-postLoad.o
+[2022-12-22T16:30:07.443697 47536] Trying direct lookup
+[2022-12-22T16:30:07.444697 47536] Retrieved 6343h6pcauaq7hfnucdjmj59k8spaupi6 from primary storage (C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/3/43h6pcauaq7hfnucdjmj59k8spaupi6M)
+[2022-12-22T16:30:07.444697 47536] Looking for result key in C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/3/43h6pcauaq7hfnucdjmj59k8spaupi6M
+[2022-12-22T16:30:07.450187 39100] === CCACHE 4.6 STARTED =========================================
+[2022-12-22T16:30:07.450187 39100] Config: (default) absolute_paths_in_stderr = false
+[2022-12-22T16:30:07.450187 39100] Config: (default) base_dir = 
+[2022-12-22T16:30:07.450187 39100] Config: (environment) cache_dir = C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-12-22T16:30:07.450187 39100] Config: (default) compiler = 
+[2022-12-22T16:30:07.450187 39100] Config: (default) compiler_check = mtime
+[2022-12-22T16:30:07.450187 39100] Config: (default) compiler_type = auto
+[2022-12-22T16:30:07.450187 39100] Config: (default) compression = true
+[2022-12-22T16:30:07.450187 39100] Config: (default) compression_level = 0
+[2022-12-22T16:30:07.450187 39100] Config: (default) cpp_extension = 
+[2022-12-22T16:30:07.450187 39100] Config: (default) debug = false
+[2022-12-22T16:30:07.450187 39100] Config: (default) debug_dir = 
+[2022-12-22T16:30:07.450187 39100] Config: (default) depend_mode = false
+[2022-12-22T16:30:07.450187 39100] Config: (default) direct_mode = true
+[2022-12-22T16:30:07.450187 39100] Config: (default) disable = false
+[2022-12-22T16:30:07.450187 39100] Config: (default) extra_files_to_hash = 
+[2022-12-22T16:30:07.450187 39100] Config: (default) file_clone = false
+[2022-12-22T16:30:07.450187 39100] Config: (default) hard_link = false
+[2022-12-22T16:30:07.450187 39100] Config: (default) hash_dir = true
+[2022-12-22T16:30:07.450187 39100] Config: (default) ignore_headers_in_manifest = 
+[2022-12-22T16:30:07.450187 39100] Config: (default) ignore_options = 
+[2022-12-22T16:30:07.450187 39100] Config: (default) inode_cache = false
+[2022-12-22T16:30:07.450187 39100] Config: (default) keep_comments_cpp = false
+[2022-12-22T16:30:07.450187 39100] Config: (default) limit_multiple = 0.8
+[2022-12-22T16:30:07.450187 39100] Config: (environment) log_file = E:\opea\py\lean_py\tlc\o\AiRobot.build\ccache-64376.txt
+[2022-12-22T16:30:07.450187 39100] Config: (default) max_files = 0
+[2022-12-22T16:30:07.450187 39100] Config: (default) max_size = 5.0G
+[2022-12-22T16:30:07.450187 39100] Config: (default) namespace = 
+[2022-12-22T16:30:07.450187 39100] Config: (default) path = 
+[2022-12-22T16:30:07.450187 39100] Config: (default) pch_external_checksum = false
+[2022-12-22T16:30:07.450187 39100] Config: (default) prefix_command = 
+[2022-12-22T16:30:07.450187 39100] Config: (default) prefix_command_cpp = 
+[2022-12-22T16:30:07.450187 39100] Config: (default) read_only = false
+[2022-12-22T16:30:07.450187 39100] Config: (default) read_only_direct = false
+[2022-12-22T16:30:07.450187 39100] Config: (default) recache = false
+[2022-12-22T16:30:07.450187 39100] Config: (default) reshare = false
+[2022-12-22T16:30:07.450187 39100] Config: (default) run_second_cpp = true
+[2022-12-22T16:30:07.450187 39100] Config: (default) secondary_storage = 
+[2022-12-22T16:30:07.450187 39100] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-12-22T16:30:07.450187 39100] Config: (default) stats = true
+[2022-12-22T16:30:07.450187 39100] Config: (default) stats_log = 
+[2022-12-22T16:30:07.450187 39100] Config: (default) temporary_dir = C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-12-22T16:30:07.450187 39100] Config: (default) umask = 
+[2022-12-22T16:30:07.450187 39100] Command line: C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\ccache\v4.6\ccache.exe G:\trun\mingw64\bin\gcc.exe -o module.multiprocessing-preLoad.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_STANDALONE -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=153 -D_NUITKA_EXE -D_NUITKA_PLUGIN_MULTIPROCESSING_ENABLED=1 -IE:\opea\python310\include -I. -IE:\opea\PYTHON~1\lib\SITE-P~1\nuitka\build\include -IE:\opea\PYTHON~1\lib\SITE-P~1\nuitka\build\static_src module.multiprocessing-preLoad.c
+[2022-12-22T16:30:07.457169 65408] === CCACHE 4.6 STARTED =========================================
+[2022-12-22T16:30:07.457169 65408] Config: (default) absolute_paths_in_stderr = false
+[2022-12-22T16:30:07.457169 65408] Config: (default) base_dir = 
+[2022-12-22T16:30:07.457169 65408] Config: (environment) cache_dir = C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-12-22T16:30:07.457169 65408] Config: (default) compiler = 
+[2022-12-22T16:30:07.457169 65408] Config: (default) compiler_check = mtime
+[2022-12-22T16:30:07.457169 65408] Config: (default) compiler_type = auto
+[2022-12-22T16:30:07.457169 65408] Config: (default) compression = true
+[2022-12-22T16:30:07.457169 65408] Config: (default) compression_level = 0
+[2022-12-22T16:30:07.457169 65408] Config: (default) cpp_extension = 
+[2022-12-22T16:30:07.457169 65408] Config: (default) debug = false
+[2022-12-22T16:30:07.457169 65408] Config: (default) debug_dir = 
+[2022-12-22T16:30:07.457169 65408] Config: (default) depend_mode = false
+[2022-12-22T16:30:07.457169 65408] Config: (default) direct_mode = true
+[2022-12-22T16:30:07.457169 65408] Config: (default) disable = false
+[2022-12-22T16:30:07.457169 65408] Config: (default) extra_files_to_hash = 
+[2022-12-22T16:30:07.457169 65408] Config: (default) file_clone = false
+[2022-12-22T16:30:07.457169 65408] Config: (default) hard_link = false
+[2022-12-22T16:30:07.457169 65408] Config: (default) hash_dir = true
+[2022-12-22T16:30:07.457169 65408] Config: (default) ignore_headers_in_manifest = 
+[2022-12-22T16:30:07.457169 65408] Config: (default) ignore_options = 
+[2022-12-22T16:30:07.457169 65408] Config: (default) inode_cache = false
+[2022-12-22T16:30:07.457169 65408] Config: (default) keep_comments_cpp = false
+[2022-12-22T16:30:07.457169 65408] Config: (default) limit_multiple = 0.8
+[2022-12-22T16:30:07.457169 65408] Config: (environment) log_file = E:\opea\py\lean_py\tlc\o\AiRobot.build\ccache-64376.txt
+[2022-12-22T16:30:07.457169 65408] Config: (default) max_files = 0
+[2022-12-22T16:30:07.457169 65408] Config: (default) max_size = 5.0G
+[2022-12-22T16:30:07.457169 65408] Config: (default) namespace = 
+[2022-12-22T16:30:07.457169 65408] Config: (default) path = 
+[2022-12-22T16:30:07.457169 65408] Config: (default) pch_external_checksum = false
+[2022-12-22T16:30:07.457169 65408] Config: (default) prefix_command = 
+[2022-12-22T16:30:07.457169 65408] Config: (default) prefix_command_cpp = 
+[2022-12-22T16:30:07.457169 65408] Config: (default) read_only = false
+[2022-12-22T16:30:07.457169 65408] Config: (default) read_only_direct = false
+[2022-12-22T16:30:07.457169 65408] Config: (default) recache = false
+[2022-12-22T16:30:07.457169 65408] Config: (default) reshare = false
+[2022-12-22T16:30:07.457169 65408] Config: (default) run_second_cpp = true
+[2022-12-22T16:30:07.457169 65408] Config: (default) secondary_storage = 
+[2022-12-22T16:30:07.457169 65408] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-12-22T16:30:07.457169 65408] Config: (default) stats = true
+[2022-12-22T16:30:07.457169 65408] Config: (default) stats_log = 
+[2022-12-22T16:30:07.457169 65408] Config: (default) temporary_dir = C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-12-22T16:30:07.457169 65408] Config: (default) umask = 
+[2022-12-22T16:30:07.458166 65408] Command line: C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\ccache\v4.6\ccache.exe G:\trun\mingw64\bin\gcc.exe -o static_src\MainProgram.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_STANDALONE -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=153 -D_NUITKA_EXE -D_NUITKA_PLUGIN_MULTIPROCESSING_ENABLED=1 -IE:\opea\python310\include -I. -IE:\opea\PYTHON~1\lib\SITE-P~1\nuitka\build\include -IE:\opea\PYTHON~1\lib\SITE-P~1\nuitka\build\static_src static_src\MainProgram.c
+[2022-12-22T16:30:07.460161 39100] Hostname: DESKTOP-ESQ17M1
+[2022-12-22T16:30:07.460161 39100] Working directory: E:/opea/py/lean_py/tlc/o/AiRobot.build
+[2022-12-22T16:30:07.460161 39100] Compiler type: gcc
+[2022-12-22T16:30:07.461158 39100] Source file: module.multiprocessing-preLoad.c
+[2022-12-22T16:30:07.461158 39100] Object file: module.multiprocessing-preLoad.o
+[2022-12-22T16:30:07.461158 39100] Trying direct lookup
+[2022-12-22T16:30:07.461158 39100] Retrieved 28671k9or6c0fg67t6ligsb92hc32rqe6 from primary storage (C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/8/671k9or6c0fg67t6ligsb92hc32rqe6M)
+[2022-12-22T16:30:07.462155 39100] Looking for result key in C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/8/671k9or6c0fg67t6ligsb92hc32rqe6M
+[2022-12-22T16:30:07.463153 46016] Got result key from manifest
+[2022-12-22T16:30:07.463153 46016] Retrieved 5b86hpku4qpqcn0p2046tgug0mtg9uivg from primary storage (C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/b/86hpku4qpqcn0p2046tgug0mtg9uivgR)
+[2022-12-22T16:30:07.464150 46016] Reading embedded entry #0 .o (13991 bytes)
+[2022-12-22T16:30:07.464150 46016] Writing to __constants.o
+[2022-12-22T16:30:07.464150 46016] Succeeded getting cached result
+[2022-12-22T16:30:07.464150 46016] Result: direct_cache_hit
+[2022-12-22T16:30:07.464150 46016] Result: primary_storage_hit
+[2022-12-22T16:30:07.465147 65408] Hostname: DESKTOP-ESQ17M1
+[2022-12-22T16:30:07.465147 65408] Working directory: E:/opea/py/lean_py/tlc/o/AiRobot.build
+[2022-12-22T16:30:07.465147 46016] Acquired lock C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/0/stats.lock
+[2022-12-22T16:30:07.466145 65408] Source file: static_src\MainProgram.c
+[2022-12-22T16:30:07.466145 65408] Object file: static_src\MainProgram.o
+[2022-12-22T16:30:07.466145 65408] Trying direct lookup
+[2022-12-22T16:30:07.467143 65408] Retrieved 3ae44erc9n11buls1is00b54i6ep2ptl0 from primary storage (C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/a/e44erc9n11buls1is00b54i6ep2ptl0M)
+[2022-12-22T16:30:07.467143 65408] Looking for result key in C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/a/e44erc9n11buls1is00b54i6ep2ptl0M
+[2022-12-22T16:30:07.467143 36436] Got result key from manifest
+[2022-12-22T16:30:07.467143 36436] Retrieved 6353085ftuhsot15rl3ipckt20nn9q29q from primary storage (C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/3/53085ftuhsot15rl3ipckt20nn9q29qR)
+[2022-12-22T16:30:07.468140 36436] Reading embedded entry #0 .o (2647 bytes)
+[2022-12-22T16:30:07.468140 36436] Writing to __helpers.o
+[2022-12-22T16:30:07.469138 36436] Succeeded getting cached result
+[2022-12-22T16:30:07.469138 36436] Result: direct_cache_hit
+[2022-12-22T16:30:07.469138 36436] Result: primary_storage_hit
+[2022-12-22T16:30:07.469138 46016] Releasing lock C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/0/stats.lock
+[2022-12-22T16:30:07.470134 36436] Acquired lock C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/4/stats.lock
+[2022-12-22T16:30:07.474123 36436] Releasing lock C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/4/stats.lock
+[2022-12-22T16:30:07.489083 47332] Got result key from manifest
+[2022-12-22T16:30:07.490081 47332] Retrieved 16c1vp6gpf32s6f7r2l50538qj6e34vdg from primary storage (C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/6/c1vp6gpf32s6f7r2l50538qj6e34vdgR)
+[2022-12-22T16:30:07.490081 47332] Reading embedded entry #0 .o (48603 bytes)
+[2022-12-22T16:30:07.490081 47332] Writing to module.__main__.o
+[2022-12-22T16:30:07.491078 47332] Succeeded getting cached result
+[2022-12-22T16:30:07.491078 47332] Result: direct_cache_hit
+[2022-12-22T16:30:07.491078 47332] Result: primary_storage_hit
+[2022-12-22T16:30:07.491078 47332] Acquired lock C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/4/stats.lock
+[2022-12-22T16:30:07.494070 47332] Releasing lock C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/4/stats.lock
+[2022-12-22T16:30:07.510029 52520] Got result key from manifest
+[2022-12-22T16:30:07.510029 52520] Retrieved 99aco6bf60bqrn5jfrcs4e0eolgc48tde from primary storage (C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/9/aco6bf60bqrn5jfrcs4e0eolgc48tdeR)
+[2022-12-22T16:30:07.511025 52520] Reading embedded entry #0 .o (65353 bytes)
+[2022-12-22T16:30:07.511025 52520] Writing to module.__parents_main__.o
+[2022-12-22T16:30:07.511025 52520] Succeeded getting cached result
+[2022-12-22T16:30:07.511025 52520] Result: direct_cache_hit
+[2022-12-22T16:30:07.511025 52520] Result: primary_storage_hit
+[2022-12-22T16:30:07.512022 52520] Acquired lock C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/8/stats.lock
+[2022-12-22T16:30:07.515014 52520] Releasing lock C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/8/stats.lock
+[2022-12-22T16:30:07.524987 47536] Got result key from manifest
+[2022-12-22T16:30:07.524987 47536] Retrieved 73b4su58ukegu6tqjrofm8ht7t8ri42rs from primary storage (C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/3/b4su58ukegu6tqjrofm8ht7t8ri42rsR)
+[2022-12-22T16:30:07.525985 47536] Reading embedded entry #0 .o (86363 bytes)
+[2022-12-22T16:30:07.525985 47536] Writing to module.multiprocessing-postLoad.o
+[2022-12-22T16:30:07.526982 47536] Succeeded getting cached result
+[2022-12-22T16:30:07.526982 47536] Result: direct_cache_hit
+[2022-12-22T16:30:07.526982 47536] Result: primary_storage_hit
+[2022-12-22T16:30:07.527980 47536] Acquired lock C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/0/stats.lock
+[2022-12-22T16:30:07.529975 47536] Releasing lock C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/0/stats.lock
+[2022-12-22T16:30:07.536955 39100] Got result key from manifest
+[2022-12-22T16:30:07.536955 39100] Retrieved ea302lfvihqdjf8ro4odqfjuf5nmaovbk from primary storage (C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/a/302lfvihqdjf8ro4odqfjuf5nmaovbkR)
+[2022-12-22T16:30:07.537953 39100] Reading embedded entry #0 .o (58662 bytes)
+[2022-12-22T16:30:07.537953 39100] Writing to module.multiprocessing-preLoad.o
+[2022-12-22T16:30:07.537953 39100] Succeeded getting cached result
+[2022-12-22T16:30:07.537953 39100] Result: direct_cache_hit
+[2022-12-22T16:30:07.537953 39100] Result: primary_storage_hit
+[2022-12-22T16:30:07.539947 39100] Acquired lock C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/c/stats.lock
+[2022-12-22T16:30:07.541942 39100] Releasing lock C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/c/stats.lock
+[2022-12-22T16:30:07.551915 57708] === CCACHE 4.6 STARTED =========================================
+[2022-12-22T16:30:07.551915 57708] Config: (default) absolute_paths_in_stderr = false
+[2022-12-22T16:30:07.551915 57708] Config: (default) base_dir = 
+[2022-12-22T16:30:07.551915 57708] Config: (environment) cache_dir = C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-12-22T16:30:07.551915 57708] Config: (default) compiler = 
+[2022-12-22T16:30:07.551915 57708] Config: (default) compiler_check = mtime
+[2022-12-22T16:30:07.551915 57708] Config: (default) compiler_type = auto
+[2022-12-22T16:30:07.551915 57708] Config: (default) compression = true
+[2022-12-22T16:30:07.551915 57708] Config: (default) compression_level = 0
+[2022-12-22T16:30:07.551915 57708] Config: (default) cpp_extension = 
+[2022-12-22T16:30:07.551915 57708] Config: (default) debug = false
+[2022-12-22T16:30:07.551915 57708] Config: (default) debug_dir = 
+[2022-12-22T16:30:07.551915 57708] Config: (default) depend_mode = false
+[2022-12-22T16:30:07.551915 57708] Config: (default) direct_mode = true
+[2022-12-22T16:30:07.551915 57708] Config: (default) disable = false
+[2022-12-22T16:30:07.551915 57708] Config: (default) extra_files_to_hash = 
+[2022-12-22T16:30:07.551915 57708] Config: (default) file_clone = false
+[2022-12-22T16:30:07.551915 57708] Config: (default) hard_link = false
+[2022-12-22T16:30:07.551915 57708] Config: (default) hash_dir = true
+[2022-12-22T16:30:07.551915 57708] Config: (default) ignore_headers_in_manifest = 
+[2022-12-22T16:30:07.551915 57708] Config: (default) ignore_options = 
+[2022-12-22T16:30:07.551915 57708] Config: (default) inode_cache = false
+[2022-12-22T16:30:07.551915 57708] Config: (default) keep_comments_cpp = false
+[2022-12-22T16:30:07.551915 57708] Config: (default) limit_multiple = 0.8
+[2022-12-22T16:30:07.551915 57708] Config: (environment) log_file = E:\opea\py\lean_py\tlc\o\AiRobot.build\ccache-64376.txt
+[2022-12-22T16:30:07.551915 57708] Config: (default) max_files = 0
+[2022-12-22T16:30:07.551915 57708] Config: (default) max_size = 5.0G
+[2022-12-22T16:30:07.551915 57708] Config: (default) namespace = 
+[2022-12-22T16:30:07.551915 57708] Config: (default) path = 
+[2022-12-22T16:30:07.551915 57708] Config: (default) pch_external_checksum = false
+[2022-12-22T16:30:07.551915 57708] Config: (default) prefix_command = 
+[2022-12-22T16:30:07.551915 57708] Config: (default) prefix_command_cpp = 
+[2022-12-22T16:30:07.551915 57708] Config: (default) read_only = false
+[2022-12-22T16:30:07.551915 57708] Config: (default) read_only_direct = false
+[2022-12-22T16:30:07.551915 57708] Config: (default) recache = false
+[2022-12-22T16:30:07.551915 57708] Config: (default) reshare = false
+[2022-12-22T16:30:07.551915 57708] Config: (default) run_second_cpp = true
+[2022-12-22T16:30:07.551915 57708] Config: (default) secondary_storage = 
+[2022-12-22T16:30:07.551915 57708] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-12-22T16:30:07.551915 57708] Config: (default) stats = true
+[2022-12-22T16:30:07.551915 57708] Config: (default) stats_log = 
+[2022-12-22T16:30:07.551915 57708] Config: (default) temporary_dir = C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-12-22T16:30:07.551915 57708] Config: (default) umask = 
+[2022-12-22T16:30:07.551915 57708] Command line: C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\ccache\v4.6\ccache.exe G:\trun\mingw64\bin\gcc.exe -o static_src\CompiledCellType.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_STANDALONE -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=153 -D_NUITKA_EXE -D_NUITKA_PLUGIN_MULTIPROCESSING_ENABLED=1 -IE:\opea\python310\include -I. -IE:\opea\PYTHON~1\lib\SITE-P~1\nuitka\build\include -IE:\opea\PYTHON~1\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledCellType.c
+[2022-12-22T16:30:07.554907 65408] Got result key from manifest
+[2022-12-22T16:30:07.554907 65408] Retrieved cecbt03i7uvo1il456592f9gutrccs952 from primary storage (C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/e/cbt03i7uvo1il456592f9gutrccs952R)
+[2022-12-22T16:30:07.554907 65408] Reading embedded entry #0 .o (32475 bytes)
+[2022-12-22T16:30:07.554907 65408] Writing to static_src\MainProgram.o
+[2022-12-22T16:30:07.555905 65408] Succeeded getting cached result
+[2022-12-22T16:30:07.555905 65408] Result: direct_cache_hit
+[2022-12-22T16:30:07.555905 65408] Result: primary_storage_hit
+[2022-12-22T16:30:07.556902 65408] Acquired lock C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/0/stats.lock
+[2022-12-22T16:30:07.557901 57708] Hostname: DESKTOP-ESQ17M1
+[2022-12-22T16:30:07.557901 57708] Working directory: E:/opea/py/lean_py/tlc/o/AiRobot.build
+[2022-12-22T16:30:07.557901 57708] Compiler type: gcc
+[2022-12-22T16:30:07.558897 57708] Source file: static_src\CompiledCellType.c
+[2022-12-22T16:30:07.558897 57708] Object file: static_src\CompiledCellType.o
+[2022-12-22T16:30:07.558897 57708] Trying direct lookup
+[2022-12-22T16:30:07.558897 57708] Retrieved 6cc38nqeej1iefq93sc2f0f1jj1oaq9dg from primary storage (C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/c/c38nqeej1iefq93sc2f0f1jj1oaq9dgM)
+[2022-12-22T16:30:07.559895 57708] Looking for result key in C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/c/c38nqeej1iefq93sc2f0f1jj1oaq9dgM
+[2022-12-22T16:30:07.559895 65408] Releasing lock C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/0/stats.lock
+[2022-12-22T16:30:07.615746 57708] Got result key from manifest
+[2022-12-22T16:30:07.616743 57708] Retrieved 3483lup6uejeicsjlffrtk8fklg0ol70m from primary storage (C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/4/83lup6uejeicsjlffrtk8fklg0ol70mR)
+[2022-12-22T16:30:07.616743 57708] Reading embedded entry #0 .o (35423 bytes)
+[2022-12-22T16:30:07.616743 57708] Writing to static_src\CompiledCellType.o
+[2022-12-22T16:30:07.617740 57708] Succeeded getting cached result
+[2022-12-22T16:30:07.617740 57708] Result: direct_cache_hit
+[2022-12-22T16:30:07.617740 57708] Result: primary_storage_hit
+[2022-12-22T16:30:07.617740 57708] Acquired lock C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/c/stats.lock
+[2022-12-22T16:30:07.620731 57708] Releasing lock C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/c/stats.lock
+[2022-12-22T16:30:07.719467 49812] === CCACHE 4.6 STARTED =========================================
+[2022-12-22T16:30:07.719467 49812] Config: (default) absolute_paths_in_stderr = false
+[2022-12-22T16:30:07.719467 49812] Config: (default) base_dir = 
+[2022-12-22T16:30:07.719467 49812] Config: (environment) cache_dir = C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-12-22T16:30:07.719467 49812] Config: (default) compiler = 
+[2022-12-22T16:30:07.719467 49812] Config: (default) compiler_check = mtime
+[2022-12-22T16:30:07.719467 49812] Config: (default) compiler_type = auto
+[2022-12-22T16:30:07.719467 49812] Config: (default) compression = true
+[2022-12-22T16:30:07.719467 49812] Config: (default) compression_level = 0
+[2022-12-22T16:30:07.719467 49812] Config: (default) cpp_extension = 
+[2022-12-22T16:30:07.719467 49812] Config: (default) debug = false
+[2022-12-22T16:30:07.719467 49812] Config: (default) debug_dir = 
+[2022-12-22T16:30:07.719467 49812] Config: (default) depend_mode = false
+[2022-12-22T16:30:07.719467 49812] Config: (default) direct_mode = true
+[2022-12-22T16:30:07.719467 49812] Config: (default) disable = false
+[2022-12-22T16:30:07.719467 49812] Config: (default) extra_files_to_hash = 
+[2022-12-22T16:30:07.719467 49812] Config: (default) file_clone = false
+[2022-12-22T16:30:07.719467 49812] Config: (default) hard_link = false
+[2022-12-22T16:30:07.719467 49812] Config: (default) hash_dir = true
+[2022-12-22T16:30:07.719467 49812] Config: (default) ignore_headers_in_manifest = 
+[2022-12-22T16:30:07.719467 49812] Config: (default) ignore_options = 
+[2022-12-22T16:30:07.719467 49812] Config: (default) inode_cache = false
+[2022-12-22T16:30:07.719467 49812] Config: (default) keep_comments_cpp = false
+[2022-12-22T16:30:07.719467 49812] Config: (default) limit_multiple = 0.8
+[2022-12-22T16:30:07.719467 49812] Config: (environment) log_file = E:\opea\py\lean_py\tlc\o\AiRobot.build\ccache-64376.txt
+[2022-12-22T16:30:07.719467 49812] Config: (default) max_files = 0
+[2022-12-22T16:30:07.719467 49812] Config: (default) max_size = 5.0G
+[2022-12-22T16:30:07.719467 49812] Config: (default) namespace = 
+[2022-12-22T16:30:07.719467 49812] Config: (default) path = 
+[2022-12-22T16:30:07.719467 49812] Config: (default) pch_external_checksum = false
+[2022-12-22T16:30:07.719467 49812] Config: (default) prefix_command = 
+[2022-12-22T16:30:07.719467 49812] Config: (default) prefix_command_cpp = 
+[2022-12-22T16:30:07.719467 49812] Config: (default) read_only = false
+[2022-12-22T16:30:07.719467 49812] Config: (default) read_only_direct = false
+[2022-12-22T16:30:07.719467 49812] Config: (default) recache = false
+[2022-12-22T16:30:07.719467 49812] Config: (default) reshare = false
+[2022-12-22T16:30:07.719467 49812] Config: (default) run_second_cpp = true
+[2022-12-22T16:30:07.719467 49812] Config: (default) secondary_storage = 
+[2022-12-22T16:30:07.719467 49812] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-12-22T16:30:07.719467 49812] Config: (default) stats = true
+[2022-12-22T16:30:07.719467 49812] Config: (default) stats_log = 
+[2022-12-22T16:30:07.719467 49812] Config: (default) temporary_dir = C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-12-22T16:30:07.719467 49812] Config: (default) umask = 
+[2022-12-22T16:30:07.719467 49812] Command line: C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\ccache\v4.6\ccache.exe G:\trun\mingw64\bin\gcc.exe -o static_src\CompiledFunctionType.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_STANDALONE -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=153 -D_NUITKA_EXE -D_NUITKA_PLUGIN_MULTIPROCESSING_ENABLED=1 -IE:\opea\python310\include -I. -IE:\opea\PYTHON~1\lib\SITE-P~1\nuitka\build\include -IE:\opea\PYTHON~1\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledFunctionType.c
+[2022-12-22T16:30:07.725453 49812] Hostname: DESKTOP-ESQ17M1
+[2022-12-22T16:30:07.725453 49812] Working directory: E:/opea/py/lean_py/tlc/o/AiRobot.build
+[2022-12-22T16:30:07.725453 49812] Compiler type: gcc
+[2022-12-22T16:30:07.725453 49812] Source file: static_src\CompiledFunctionType.c
+[2022-12-22T16:30:07.725453 49812] Object file: static_src\CompiledFunctionType.o
+[2022-12-22T16:30:07.725453 49812] Trying direct lookup
+[2022-12-22T16:30:07.726487 49812] Retrieved f6dc3p5b296sq53ian1u560vqic0su4s6 from primary storage (C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/6/dc3p5b296sq53ian1u560vqic0su4s6M)
+[2022-12-22T16:30:07.726487 49812] Looking for result key in C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/6/dc3p5b296sq53ian1u560vqic0su4s6M
+[2022-12-22T16:30:07.746396 41568] === CCACHE 4.6 STARTED =========================================
+[2022-12-22T16:30:07.746396 41568] Config: (default) absolute_paths_in_stderr = false
+[2022-12-22T16:30:07.746396 41568] Config: (default) base_dir = 
+[2022-12-22T16:30:07.746396 41568] Config: (environment) cache_dir = C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-12-22T16:30:07.746396 41568] Config: (default) compiler = 
+[2022-12-22T16:30:07.746396 41568] Config: (default) compiler_check = mtime
+[2022-12-22T16:30:07.746396 41568] Config: (default) compiler_type = auto
+[2022-12-22T16:30:07.746396 41568] Config: (default) compression = true
+[2022-12-22T16:30:07.746396 41568] Config: (default) compression_level = 0
+[2022-12-22T16:30:07.746396 41568] Config: (default) cpp_extension = 
+[2022-12-22T16:30:07.746396 41568] Config: (default) debug = false
+[2022-12-22T16:30:07.746396 41568] Config: (default) debug_dir = 
+[2022-12-22T16:30:07.746396 41568] Config: (default) depend_mode = false
+[2022-12-22T16:30:07.746396 41568] Config: (default) direct_mode = true
+[2022-12-22T16:30:07.746396 41568] Config: (default) disable = false
+[2022-12-22T16:30:07.746396 41568] Config: (default) extra_files_to_hash = 
+[2022-12-22T16:30:07.746396 41568] Config: (default) file_clone = false
+[2022-12-22T16:30:07.746396 41568] Config: (default) hard_link = false
+[2022-12-22T16:30:07.746396 41568] Config: (default) hash_dir = true
+[2022-12-22T16:30:07.746396 41568] Config: (default) ignore_headers_in_manifest = 
+[2022-12-22T16:30:07.746396 41568] Config: (default) ignore_options = 
+[2022-12-22T16:30:07.746396 41568] Config: (default) inode_cache = false
+[2022-12-22T16:30:07.746396 41568] Config: (default) keep_comments_cpp = false
+[2022-12-22T16:30:07.746396 41568] Config: (default) limit_multiple = 0.8
+[2022-12-22T16:30:07.746396 41568] Config: (environment) log_file = E:\opea\py\lean_py\tlc\o\AiRobot.build\ccache-64376.txt
+[2022-12-22T16:30:07.746396 41568] Config: (default) max_files = 0
+[2022-12-22T16:30:07.746396 41568] Config: (default) max_size = 5.0G
+[2022-12-22T16:30:07.746396 41568] Config: (default) namespace = 
+[2022-12-22T16:30:07.746396 41568] Config: (default) path = 
+[2022-12-22T16:30:07.746396 41568] Config: (default) pch_external_checksum = false
+[2022-12-22T16:30:07.746396 41568] Config: (default) prefix_command = 
+[2022-12-22T16:30:07.746396 41568] Config: (default) prefix_command_cpp = 
+[2022-12-22T16:30:07.746396 41568] Config: (default) read_only = false
+[2022-12-22T16:30:07.746396 41568] Config: (default) read_only_direct = false
+[2022-12-22T16:30:07.746396 41568] Config: (default) recache = false
+[2022-12-22T16:30:07.746396 41568] Config: (default) reshare = false
+[2022-12-22T16:30:07.746396 41568] Config: (default) run_second_cpp = true
+[2022-12-22T16:30:07.746396 41568] Config: (default) secondary_storage = 
+[2022-12-22T16:30:07.746396 41568] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-12-22T16:30:07.746396 41568] Config: (default) stats = true
+[2022-12-22T16:30:07.746396 41568] Config: (default) stats_log = 
+[2022-12-22T16:30:07.746396 41568] Config: (default) temporary_dir = C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-12-22T16:30:07.746396 41568] Config: (default) umask = 
+[2022-12-22T16:30:07.746396 41568] Command line: C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\ccache\v4.6\ccache.exe G:\trun\mingw64\bin\gcc.exe -o static_src\CompiledGeneratorType.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_STANDALONE -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=153 -D_NUITKA_EXE -D_NUITKA_PLUGIN_MULTIPROCESSING_ENABLED=1 -IE:\opea\python310\include -I. -IE:\opea\PYTHON~1\lib\SITE-P~1\nuitka\build\include -IE:\opea\PYTHON~1\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledGeneratorType.c
+[2022-12-22T16:30:07.752381 41568] Hostname: DESKTOP-ESQ17M1
+[2022-12-22T16:30:07.752381 41568] Working directory: E:/opea/py/lean_py/tlc/o/AiRobot.build
+[2022-12-22T16:30:07.752381 41568] Compiler type: gcc
+[2022-12-22T16:30:07.753379 41568] Source file: static_src\CompiledGeneratorType.c
+[2022-12-22T16:30:07.753379 41568] Object file: static_src\CompiledGeneratorType.o
+[2022-12-22T16:30:07.753379 41568] Trying direct lookup
+[2022-12-22T16:30:07.753379 41568] Retrieved 9c054jgtougqofds386v9jjjgenqo5u5k from primary storage (C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/c/054jgtougqofds386v9jjjgenqo5u5kM)
+[2022-12-22T16:30:07.754376 41568] Looking for result key in C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/c/054jgtougqofds386v9jjjgenqo5u5kM
+[2022-12-22T16:30:07.755373 60796] === CCACHE 4.6 STARTED =========================================
+[2022-12-22T16:30:07.755373 60796] Config: (default) absolute_paths_in_stderr = false
+[2022-12-22T16:30:07.755373 60796] Config: (default) base_dir = 
+[2022-12-22T16:30:07.755373 60796] Config: (environment) cache_dir = C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-12-22T16:30:07.755373 60796] Config: (default) compiler = 
+[2022-12-22T16:30:07.755373 60796] Config: (default) compiler_check = mtime
+[2022-12-22T16:30:07.755373 60796] Config: (default) compiler_type = auto
+[2022-12-22T16:30:07.755373 60796] Config: (default) compression = true
+[2022-12-22T16:30:07.755373 60796] Config: (default) compression_level = 0
+[2022-12-22T16:30:07.755373 60796] Config: (default) cpp_extension = 
+[2022-12-22T16:30:07.755373 60796] Config: (default) debug = false
+[2022-12-22T16:30:07.755373 60796] Config: (default) debug_dir = 
+[2022-12-22T16:30:07.755373 60796] Config: (default) depend_mode = false
+[2022-12-22T16:30:07.755373 60796] Config: (default) direct_mode = true
+[2022-12-22T16:30:07.755373 60796] Config: (default) disable = false
+[2022-12-22T16:30:07.755373 60796] Config: (default) extra_files_to_hash = 
+[2022-12-22T16:30:07.755373 60796] Config: (default) file_clone = false
+[2022-12-22T16:30:07.755373 60796] Config: (default) hard_link = false
+[2022-12-22T16:30:07.755373 60796] Config: (default) hash_dir = true
+[2022-12-22T16:30:07.755373 60796] Config: (default) ignore_headers_in_manifest = 
+[2022-12-22T16:30:07.755373 60796] Config: (default) ignore_options = 
+[2022-12-22T16:30:07.755373 60796] Config: (default) inode_cache = false
+[2022-12-22T16:30:07.755373 60796] Config: (default) keep_comments_cpp = false
+[2022-12-22T16:30:07.755373 60796] Config: (default) limit_multiple = 0.8
+[2022-12-22T16:30:07.755373 60796] Config: (environment) log_file = E:\opea\py\lean_py\tlc\o\AiRobot.build\ccache-64376.txt
+[2022-12-22T16:30:07.755373 60796] Config: (default) max_files = 0
+[2022-12-22T16:30:07.755373 60796] Config: (default) max_size = 5.0G
+[2022-12-22T16:30:07.755373 60796] Config: (default) namespace = 
+[2022-12-22T16:30:07.755373 60796] Config: (default) path = 
+[2022-12-22T16:30:07.755373 60796] Config: (default) pch_external_checksum = false
+[2022-12-22T16:30:07.755373 60796] Config: (default) prefix_command = 
+[2022-12-22T16:30:07.755373 60796] Config: (default) prefix_command_cpp = 
+[2022-12-22T16:30:07.755373 60796] Config: (default) read_only = false
+[2022-12-22T16:30:07.755373 60796] Config: (default) read_only_direct = false
+[2022-12-22T16:30:07.755373 60796] Config: (default) recache = false
+[2022-12-22T16:30:07.755373 60796] Config: (default) reshare = false
+[2022-12-22T16:30:07.755373 60796] Config: (default) run_second_cpp = true
+[2022-12-22T16:30:07.755373 60796] Config: (default) secondary_storage = 
+[2022-12-22T16:30:07.755373 60796] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-12-22T16:30:07.755373 60796] Config: (default) stats = true
+[2022-12-22T16:30:07.755373 60796] Config: (default) stats_log = 
+[2022-12-22T16:30:07.755373 60796] Config: (default) temporary_dir = C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-12-22T16:30:07.755373 60796] Config: (default) umask = 
+[2022-12-22T16:30:07.756368 60796] Command line: C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\ccache\v4.6\ccache.exe G:\trun\mingw64\bin\gcc.exe -o static_src\InspectPatcher.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_STANDALONE -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=153 -D_NUITKA_EXE -D_NUITKA_PLUGIN_MULTIPROCESSING_ENABLED=1 -IE:\opea\python310\include -I. -IE:\opea\PYTHON~1\lib\SITE-P~1\nuitka\build\include -IE:\opea\PYTHON~1\lib\SITE-P~1\nuitka\build\static_src static_src\InspectPatcher.c
+[2022-12-22T16:30:07.761355 60796] Hostname: DESKTOP-ESQ17M1
+[2022-12-22T16:30:07.762354 60796] Working directory: E:/opea/py/lean_py/tlc/o/AiRobot.build
+[2022-12-22T16:30:07.762354 60796] Compiler type: gcc
+[2022-12-22T16:30:07.762354 60796] Source file: static_src\InspectPatcher.c
+[2022-12-22T16:30:07.762354 60796] Object file: static_src\InspectPatcher.o
+[2022-12-22T16:30:07.762354 60796] Trying direct lookup
+[2022-12-22T16:30:07.762354 60796] Retrieved 31198acnsv4te3nv8ontt4q8qo7k0frf4 from primary storage (C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/1/198acnsv4te3nv8ontt4q8qo7k0frf4M)
+[2022-12-22T16:30:07.763351 60796] Looking for result key in C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/1/198acnsv4te3nv8ontt4q8qo7k0frf4M
+[2022-12-22T16:30:07.813216 49812] Got result key from manifest
+[2022-12-22T16:30:07.813216 49812] Retrieved ea73dke6shgs7kdhi18hqj3vljt88hooq from primary storage (C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/a/73dke6shgs7kdhi18hqj3vljt88hooqR)
+[2022-12-22T16:30:07.814213 49812] Reading embedded entry #0 .o (2904536 bytes)
+[2022-12-22T16:30:07.814213 49812] Writing to static_src\CompiledFunctionType.o
+[2022-12-22T16:30:07.817206 41568] Got result key from manifest
+[2022-12-22T16:30:07.818204 41568] Retrieved cf25o420u5lpou3f98nd6avl3hb3dm918 from primary storage (C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/f/25o420u5lpou3f98nd6avl3hb3dm918R)
+[2022-12-22T16:30:07.818204 49812] Succeeded getting cached result
+[2022-12-22T16:30:07.818204 49812] Result: direct_cache_hit
+[2022-12-22T16:30:07.818204 41568] Reading embedded entry #0 .o (359221 bytes)
+[2022-12-22T16:30:07.818204 41568] Writing to static_src\CompiledGeneratorType.o
+[2022-12-22T16:30:07.819201 49812] Acquired lock C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/4/stats.lock
+[2022-12-22T16:30:07.819201 41568] Succeeded getting cached result
+[2022-12-22T16:30:07.819201 41568] Result: direct_cache_hit
+[2022-12-22T16:30:07.819201 41568] Result: primary_storage_hit
+[2022-12-22T16:30:07.820198 41568] Acquired lock C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/0/stats.lock
+[2022-12-22T16:30:07.821195 49812] Releasing lock C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/4/stats.lock
+[2022-12-22T16:30:07.823190 41568] Releasing lock C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/0/stats.lock
+[2022-12-22T16:30:07.825185 60796] Got result key from manifest
+[2022-12-22T16:30:07.825185 60796] Retrieved 61cbc1feos6al7g9mb1tlvr53htqf753c from primary storage (C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/1/cbc1feos6al7g9mb1tlvr53htqf753cR)
+[2022-12-22T16:30:07.826182 60796] Reading embedded entry #0 .o (42117 bytes)
+[2022-12-22T16:30:07.826182 60796] Writing to static_src\InspectPatcher.o
+[2022-12-22T16:30:07.826182 60796] Succeeded getting cached result
+[2022-12-22T16:30:07.826182 60796] Result: direct_cache_hit
+[2022-12-22T16:30:07.826182 60796] Result: primary_storage_hit
+[2022-12-22T16:30:07.827179 60796] Acquired lock C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/c/stats.lock
+[2022-12-22T16:30:07.830171 60796] Releasing lock C:\Users\Pabiqi\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/c/stats.lock
